@@ -1,3 +1,3 @@
 ## Check out My Favourite Web Series at one place
 This project is an amazing User interface created by using React Js where you can see my favourite we series in a single go...
-#Teachnologies Used : HTML, CSS,JavaScript,React Js
+Teachnologies Used : HTML, CSS,JavaScript,React Js
